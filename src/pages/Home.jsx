@@ -6,7 +6,7 @@ import { AboutSection } from "../components/AboutSection";
 import { SkillSection } from "../components/SkillSection";
 import { ProjectSection } from "../components/ProjectSection";
 import { ContactSection } from "../components/ContactSection";
-import { Footer } from "../Components/Footer";
+import { Footer } from "../components/Footer";
 
 
 export const Home =()=>{
