@@ -1,11 +1,11 @@
-import { Navbar } from "../Components/Navbar";
-import { ThemeToggle } from "../Components/ThemeToggle";
-import{ NovaBackground } from "@/Components/NovaBackground";
-import { PrimeDisplay } from "../Components/PrimeDisplay";
-import { AboutSection } from "../Components/AboutSection";
-import { SkillSection } from "../Components/SkillSection";
-import { ProjectSection } from "../Components/ProjectSection";
-import { ContactSection } from "../Components/ContactSection";
+import { Navbar } from "../components/Navbar";
+import { ThemeToggle } from "../components/ThemeToggle";
+import{ NovaBackground } from "@/components/NovaBackground";
+import { PrimeDisplay } from "../components/PrimeDisplay";
+import { AboutSection } from "../components/AboutSection";
+import { SkillSection } from "../components/SkillSection";
+import { ProjectSection } from "../components/ProjectSection";
+import { ContactSection } from "../components/ContactSection";
 import { Footer } from "../Components/Footer";
 
 
