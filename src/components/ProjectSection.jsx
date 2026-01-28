@@ -3,11 +3,11 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
         id: 1,
-        title: "Portfolio Website",
-        description: "A Presentative Portfolio page using React and Tailwind.",
+        title: "Insight Daily",
+        description: "Your very own personalized AI newsletter. ",
         image: "/projects/project1.png",
-        tags: ["React", "TailwindCSS"],
-        demoUrl: "#",
+        tags: ["Next.js", "Tailwind CSS", "Supabase", "Inngest", "AI APIs"],
+        demoUrl: "https://ai-news-letter-insight-daily.vercel.app/signin",
         githubUrl: "#",
     },
     {
