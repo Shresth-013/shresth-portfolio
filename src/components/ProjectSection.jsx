@@ -23,7 +23,7 @@ const projects = [
     {
         id: 3,
         title: "GEO Trails",
-        description: "A country exploration web app that provides detailed information like capitals, populations, and more, built to explore modern routing and layouts using React Router v7.",
+        description: "A country exploration app showcasing modern routing with React Router v7.",
         image: "/projects/project3.png",
         tags: ["React", "React Router v7", "Tailwind CSS", "APIs"],
         demoUrl: "https://geo-trails-app.vercel.app/",
