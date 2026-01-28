@@ -22,11 +22,11 @@ const projects = [
     },
     {
         id: 3,
-        title: "Currency Convereter",
-        description: "Currency conversion tool developed while exploring JavaScript and real-time data fetching.",
+        title: "GEO Trails",
+        description: "A country exploration web app that provides detailed information like capitals, populations, and more, built to explore modern routing and layouts using React Router v7.",
         image: "/projects/project3.png",
-        tags: ["HTML ", "CSS", "JavaScript"],
-        demoUrl: "#",
+        tags: ["React", "React Router v7", "Tailwind CSS", "APIs"],
+        demoUrl: "https://geo-trails-app.vercel.app/",
         githubUrl: "#",
     },
 ];
