@@ -27,7 +27,7 @@ const projects = [
         image: "/projects/project3.png",
         tags: ["React", "React Router v7", "Tailwind CSS", "APIs"],
         demoUrl: "https://geo-trails-app.vercel.app/",
-        githubUrl: "#",
+        githubUrl: "https://github.com/Shresth-013/React-router-V7",
     },
 ];
 
