@@ -8,7 +8,7 @@ const projects = [
         image: "/projects/project1.png",
         tags: ["Next.js", "Tailwind CSS", "Supabase", "Inngest", "AI APIs"],
         demoUrl: "https://ai-news-letter-insight-daily.vercel.app/signin",
-        githubUrl: "#",
+        githubUrl: "https://github.com/Shresth-013/AI-NewsLetter-InsightDaily",
     },
     {
         id: 2,
