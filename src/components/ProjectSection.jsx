@@ -12,11 +12,11 @@ const projects = [
     },
     {
         id: 2,
-        title: "Amazon Clone Website",
+        title: "AgriScan AI",
         description:
-            " A beginner-friendly clone of Amazon focused on basic skills ",
+            " An AI-powered plant disease detection system that analyzes crop images using a CNN model to deliver real-time predictions. ",
         image: "/projects/project2.png",
-        tags: ["HTML", "CSS", "JavaScript"],
+        tags: ["React", "Tailwind CSS", "FastAPI", "MongoDB", "CNN", "Machine Learning"],
         demoUrl: "#",
         githubUrl: "#",
     },
