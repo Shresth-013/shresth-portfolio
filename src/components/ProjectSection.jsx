@@ -18,7 +18,7 @@ const projects = [
         image: "/projects/project2.png",
         tags: ["React", "Tailwind CSS", "FastAPI", "MongoDB", "CNN", "Machine Learning"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/Amankumar259/AGRI-SCAN",
     },
     {
         id: 3,
