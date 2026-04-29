@@ -13,7 +13,7 @@ export const PrimeDisplay = () => {
                             Raj</span>
                     </h1>
                     <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                        Front-end developer focused on modern web technologies and Generative AI integration — delivering performant, scalable, and
+                        Full-Stack developer focused on modern web technologies and Generative AI integration — delivering performant, scalable, and
                         user-intelligent interfaces with precision and innovation.</p>
 
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
